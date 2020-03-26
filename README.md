@@ -1,4 +1,4 @@
-# Full stack progressive web app
+# Full stack progressive web app budget tracker
 The budget tracker is a progressive web app that allows users to enter expenses while offline. 
 
 ## Starting the app locally
