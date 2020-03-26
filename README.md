@@ -3,7 +3,7 @@ The budget tracker is a progressive web app that allows users to enter expenses 
 
 ## Starting the app locally
 
-Start by installing front and backend dependencies. While in this directory, run the following command:
+Start by installing front and backend dependencies. While in the root directory, run the following command:
 
 ```
 npm install
